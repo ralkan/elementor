@@ -14,8 +14,6 @@ class Widgets_Manager {
 	private function _init_widgets() {
 		$build_widgets_filename = [
 			'common',
-			'section-title',
-      'floating-button',
 			'text-editor',
 			'image',
 			'video',
